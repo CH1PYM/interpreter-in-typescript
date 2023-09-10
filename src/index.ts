@@ -1,1 +1,2 @@
-console.log("hello world")
+import { TokenType } from "./token/token.js"
+console.log(TokenType.ILLEGAL)
